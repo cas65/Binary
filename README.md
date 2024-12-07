@@ -1,7 +1,7 @@
 ## 2. Binary Numbers
 
 ### What are Binary Numbers?
-Binary numbers are used by nearly all modern computers and digital systems because they are simple to implement with digital electronic circuitry. Each binary digit (bit) is either 0 (off) or 1 (on), representing the two possible states of an electronic circuit: **off** and **on**. These states correspond directly to electrical signals such as voltage being either present or absent.
+Binary numbers are used by almost all modern computers and digital systems because they’re easy to work with using digital electronics. Each binary digit (bit) is either 0 (off) or 1 (on), which match the two states of an electronic circuit: off and on. These states line up directly with electrical signals, where voltage is either present or absent.
 
 ### How Binary Works
 In binary, each digit represents a power of **2**. Just like decimal numbers have place values based on powers of 10, binary numbers have place values based on powers of 2. For example:
@@ -11,7 +11,7 @@ In binary, each digit represents a power of **2**. Just like decimal numbers hav
 - The next represents **2²** (4),
 - The next represents **2³** (8), and so on.
 
-Each digit in a binary number corresponds to whether that power of 2 is included in the total sum (represented by 1) or excluded (represented by 0).
+Each digit in a binary number shows whether that power of 2 is part of the total sum (1) or not (0).
 
 ### Example: Convert Binary to Decimal
 
