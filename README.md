@@ -72,3 +72,6 @@ Now, try converting the following binary numbers to decimal. Use the method from
 4. 0111 → **7** (decimal)
 5. 11100 → **28** (decimal)
 
+
+### Next Section 
+[Hexadecimal Numbers](https://github.com/cas65/Hexadecimal-Numbers-.git)  
